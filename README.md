@@ -6,6 +6,28 @@ Hi i'm MUHIMA 👋🏾 👨🏾‍💻
 💫💫problem solving skeels
 
 
+
+<h1 align="center">Hi 👋, I'm bwenge muhima</h1>
+<h3 align="center">A passionate web developper and data engineering</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=buxo712&label=Profile%20views&color=0e75b6&style=flat" alt="buxo712" /> </p>
+
+- 🔭 Ia’m currently working on a php project **registration of data**
+
+- 🌱 I’m currently learning **php, python, scala**
+
+- 👯 I’m looking to collaborate on **mobile app project**
+
+- 👨‍💻 All of my projects are available at [@buxo](@buxo)
+
+- 💬 Ask me about **html,css, javascript,**
+
+- 📫 How to reach me **bwenge$%@gmail.com**
+
+- 📄 Know about my experiences [@buxo](@buxo)
+
+
+
 ---
 [![](https://visitcount.itsvg.in/api?id=buxo712&icon=0&color=0)](https://visitcount.itsvg.in)
 
