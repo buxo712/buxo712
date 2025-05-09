@@ -1,4 +1,4 @@
-hi i'm MUHIMA
+Hi i'm MUHIMA 👋🏾 👨🏾‍💻
 
 💻 IT student at IUEA</br>
 🖼 Designer student </br>
