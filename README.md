@@ -1,12 +1,3 @@
-Hi i'm MUHIMA 👋🏾 👨🏾‍💻
-
-💻 IT student at IUEA</br>
-🖼 Designer student </br>
-🉐 web developer</br>
-💫💫problem solving skeels
-
-
-
 <h1 align="center">Hi 👋, I'm bwenge muhima</h1>
 <h3 align="center">A passionate web developper and data engineering</h3>
 
