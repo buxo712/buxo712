@@ -129,41 +129,8 @@
 ###
 
 
-<h3 align="center">A passionate web developer </h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=buxo712&label=Profile%20views&color=0e75b6&style=flat" alt="buxo712" /> </p>
 
-
-
-
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/bwenge_muhima"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="bwenge_muhima" /></a></p><br><br>
-
-
-## 🛠️ My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bwenge_muhima&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Bwenge Muhima's GitHub Stats">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bwenge_muhima&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=bwenge_muhima&theme=tokyonight&hide_border=true" alt="GitHub Streak">
-</p>
-
----
-
-
-## 📊 Contributions
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bwenge_muhima&theme=github-compact" alt="Bwenge Muhima's Contribution Graph">
-</p>
-
----
 
 
 
