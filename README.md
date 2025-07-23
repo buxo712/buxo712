@@ -32,8 +32,6 @@
 
 
 
-###
-
 <div align="left">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
@@ -110,43 +108,15 @@
 
 ###
 
-
-
-
-###
-
-<p align="left"></p>
+<img src="https://raw.githubusercontent.com/buxo712/buxo712/output/snake.svg" alt="Snake animation" />
 
 ###
 
-<p align="left"></p>
-
-###
-
-<div align="left">
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=buxo712&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=buxo712&label=Profile%20views&color=0e75b6&style=flat" alt="buxo712" /> </p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 # 📊 GitHub Stats:
