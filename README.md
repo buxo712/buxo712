@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **mobile app project**
 
-- 👨‍💻 All of my projects are available at [@buxo](@buxo)
+- 👨‍💻 All of my projects are available at [@buxo](@buxo)](https://github.com/buxo712?tab=repositories)
 
 - 💬 Ask me about **html,css, javascript,java,php**
 
