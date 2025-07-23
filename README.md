@@ -112,11 +112,6 @@
 
 
 
-###
-
-<div align="center">
-  <img height="200" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=6c09b952pd2lcrpqvbyoinkr1a2xk63ei07b4rxg2p3q7wf0&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
-</div>
 
 ###
 
@@ -125,10 +120,6 @@
 ###
 
 <p align="left"></p>
-
-###
-
-<h4 align="left">I'm a data engineer</h4>
 
 ###
 
