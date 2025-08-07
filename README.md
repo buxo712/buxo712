@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [@buxo](@buxo)](https://github.com/buxo712?tab=repositories)
 
-- 💬 Ask me about **html,css, javascript,java,php,mobile app**
+- 💬 Ask me about **html,css, javascript,java,php,mobile app...**
 
 - 📫 How to reach me **bwenge45@gmail.com**
 
