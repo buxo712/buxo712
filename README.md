@@ -5,7 +5,7 @@
 
 - 🔭 Ia’m currently working on a php project **registration of data**
 
-- 🌱 I’m currently learning **(AND DATA ENGINEERING CYBERSECURITY  ) *
+- 🌱 I’m currently learning *(AND DATA ENGINEERING CYBERSECURITY  ) *
 
 - 👯 I’m looking to collaborate on **mobile app project**
 
