@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **bwenge45@gmail.com**
 
-- 📄 Know about my experiences [@buxo](@buxo)
+- 📄 Know about my experiences [@buxo](@buxo).
 
 
 
