@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm bwenge muhima</h1>
-<h3 align="center">An IT student who would like to perfom in data modeling,cybersecurity and data engineering</h3>
+<h3 align="center">A SOFTWARE DEVELOPER  who would like to perfom in data modeling,cybersecurity and data engineering</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=buxo712&label=Profile%20views&color=0e75b6&style=flat" alt="buxo712" /> </p>
 
-- 🔭 Ia’m currently working on a php project **registration of data**
+- 🔭 I’m currently working on a php project **registration of data**
 
-- 🌱 I’m currently learning *(AND DATA ENGINEERING CYBERSECURITY  ) *
+- 🌱 I’m currently learning *( PHP,JAVASCRIPT AND MOBILE PROGRAMMING  ) *
 
 - 👯 I’m looking to collaborate on **mobile app project**
 
