@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm bwenge muhima</h1>
-<h3 align="center">A SOFTWARE DEVELOPER  who would like to perfom in data modeling,cybersecurity and data engineering</h3>
+<h3 align="center">A JUNIOR SOFTWARE DEVELOPER  who would like to perfom in data modeling,cybersecurity and data engineering</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=buxo712&label=Profile%20views&color=0e75b6&style=flat" alt="buxo712" /> </p>
 
