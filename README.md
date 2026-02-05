@@ -71,19 +71,9 @@
   <img height="200" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=6c09b952pd2lcrpqvbyoinkr1a2xk63ei07b4rxg2p3q7wf0&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 </div>
 
-###
-
-<h4 align="left">I'm student aspiring to be a data engineer</h4>
-
-
-###
-
-###
-
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=buxo712&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=buxo712&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=buxo712&theme=merko&hide_border=f
----
+
 
