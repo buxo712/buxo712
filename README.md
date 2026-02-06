@@ -1,6 +1,36 @@
 <h1 align="center">Hi 👋, I'm buxo </h1>
 <h3 align="center">An It student   and tech enthousiast </h3>
 
+
+
+    👋 Hey there!
+    I’m an IT student and tech enthusiast based in Kinshasa.
+    I love learning by building — from small experiments to practical projects that help me grow as a developer.
+    You’ll find here some of my work using web and backend technologies, all created from scratch as I keep improving my coding skills and exploring new ideas.
+
+🧰 Tools & Technologies
+
+    Frontend: HTML, CSS
+
+    Backend & Logic: PHP, Java, Python
+
+    Database: SQL (MySQL)
+
+    Other Interests: Cybersecurity, Data Engineering, and Software Testing
+
+🧩 A Bit About Me
+
+    🖥️ Passionate about coding and problem-solving
+
+    📘 Always exploring new tech and frameworks
+
+    ⚙️ Interested in full-stack development
+
+    ⚽ Big fan of football and online games
+
+    🧱 I believe in building things that are simple, functional, and easy to understand
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=buxo712&label=Profile%20views&color=0e75b6&style=flat" alt="buxo712" /> </p>
 
 
