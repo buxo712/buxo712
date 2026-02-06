@@ -2,33 +2,23 @@
 <h3 align="center">An It student   and tech enthousiast </h3>
 
 
+ I like building simple, useful projects and using them to practice my coding skills.
 
-   <h2> 👋 Hey there!
-    I’m an IT student and tech enthusiast based in Kinshasa.
-    I love learning by building — from small experiments to practical projects that help me grow as a developer.
-    You’ll find here some of my work using web and backend technologies, all created from scratch as I keep improving my coding skills and exploring new ideas. </h2> 
+These days I'm focused on:
 
- <h2> 🧰 Tools & Technologies</h2>
+- HTML, CSS
+- Java and Python
+- PHP and SQL
 
-<h3> Frontend: HTML, CSS</h3>
+---
 
-  <h3> Backend & Logic: PHP, Java, Python </h3> 
 
-  <h2> Database: SQL (MySQL) </h2> 
+Fun Facts:
 
-   <h2>  Other Interests: Cybersecurity, Data Engineering, and Software Testing </h2> 
+- I don’t like noisy environments when I’m coding.
+- I enjoy anime and football.
+- Hobbies: coding, online games, and learning new tech.
 
-<h2> 🧩 A Bit About Me </h2>
-
-<h2>     🖥️ Passionate about coding and problem-solving </h2> 
-
-  <h2>   📘 Always exploring new tech and frameworks </h2> 
-
-<h2>     ⚙️ Interested in full-stack development </h2> 
-
- <h2>    ⚽ Big fan of football and online games </h2> 
-
-  <h2>  🧱 I believe in building things that are simple, functional, and easy to understand </h2> 
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=buxo712&label=Profile%20views&color=0e75b6&style=flat" alt="buxo712" /> </p>
