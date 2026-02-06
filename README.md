@@ -3,32 +3,32 @@
 
 
 
-    👋 Hey there!
+   <h2> 👋 Hey there!
     I’m an IT student and tech enthusiast based in Kinshasa.
     I love learning by building — from small experiments to practical projects that help me grow as a developer.
-    You’ll find here some of my work using web and backend technologies, all created from scratch as I keep improving my coding skills and exploring new ideas.
+    You’ll find here some of my work using web and backend technologies, all created from scratch as I keep improving my coding skills and exploring new ideas. </h2> 
 
-🧰 Tools & Technologies
+ <h2> 🧰 Tools & Technologies</h2>
 
-    Frontend: HTML, CSS
+<h3> Frontend: HTML, CSS</h3>
 
-    Backend & Logic: PHP, Java, Python
+  <h3> Backend & Logic: PHP, Java, Python </h3> 
 
-    Database: SQL (MySQL)
+  <h2> Database: SQL (MySQL) </h2> 
 
-    Other Interests: Cybersecurity, Data Engineering, and Software Testing
+   <h2>  Other Interests: Cybersecurity, Data Engineering, and Software Testing </h2> 
 
-🧩 A Bit About Me
+<h2> 🧩 A Bit About Me </h2>
 
-    🖥️ Passionate about coding and problem-solving
+<h2>     🖥️ Passionate about coding and problem-solving </h2> 
 
-    📘 Always exploring new tech and frameworks
+  <h2>   📘 Always exploring new tech and frameworks </h2> 
 
-    ⚙️ Interested in full-stack development
+<h2>     ⚙️ Interested in full-stack development </h2> 
 
-    ⚽ Big fan of football and online games
+ <h2>    ⚽ Big fan of football and online games </h2> 
 
-    🧱 I believe in building things that are simple, functional, and easy to understand
+  <h2>  🧱 I believe in building things that are simple, functional, and easy to understand </h2> 
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=buxo712&label=Profile%20views&color=0e75b6&style=flat" alt="buxo712" /> </p>
