@@ -17,7 +17,7 @@ Fun Facts:
 
 - I don’t like noisy environments when I’m coding.
 - I enjoy anime and football.
-- Hobbies: coding, online games, and learning new tech.
+- Hobbies: coding,  and learning new tech.
 
 
 
