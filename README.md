@@ -10,7 +10,7 @@ These days I'm focused on:
 - Java and Python
 - PHP and SQL
 
----
+
 
 
 Fun Facts:
