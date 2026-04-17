@@ -16,7 +16,7 @@ These days I'm focused on:
 Fun Facts:
 
 - I don’t like noisy environments when I’m coding.
-- I enjoy anime and football./basketball
+- I enjoy anime and football./basketball.
 - Hobbies: coding,  and learning new tech.modules.
   
 
