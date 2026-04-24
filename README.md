@@ -6,7 +6,7 @@
 
 These days I'm focused on:
 
-- HTML, CSS
+- HTML, CSS.
 - Java and Python'
 - PHP(LARAVEL) and SQL.
 
