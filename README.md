@@ -10,21 +10,6 @@ These days I'm focused on:
 - Java and Python'
 - PHP(LARAVEL) and SQL.
 
-
-
-.
-Yvette2025 Public
-Java Updated on Sep 16, 2025
-MyOOP-MusicApp Public
-Forked from Marube254/Music-Application
-
-A Java OOP music application developed as team project. Forked for personal portfolio use.
-Yvette2025 Public
-Java Updated on Sep 16, 2025.
-MyOOP-MusicApp Public
-Forked from Marube254/Music-Application
-
-A Java OOP music application developed as team project. Forked for personal portfolio use.
 Fun Facts:
 
 - I don’t like noisy environments when I’m coding.
