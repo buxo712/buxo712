@@ -8,7 +8,7 @@ These days I'm focused on:
 
 - HTML, CSS.
 - Java and Python'
-- PHP(LARAVEL) and SQL.
+- (LARAVEL) and SQL.
 
 Fun Facts:
 
