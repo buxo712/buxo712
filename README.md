@@ -11,7 +11,6 @@ These days I'm focused on:
 
 Fun Facts:
 
-- I enjoy anime and football./basketball.
 - Hobbies: coding,  and learning new tech.modules.
   
 
