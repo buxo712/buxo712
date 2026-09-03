@@ -11,7 +11,7 @@ These days I'm focused on:
 
 Fun Facts:
 
-- Hobbies: coding,  and learning new tech.modules.
+- Hobbies: coding,  and learning new tech
   
 
 
