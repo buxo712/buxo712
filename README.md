@@ -9,8 +9,6 @@ These days I'm focused on:
 - Java and Python'
 - (LARAVEL) and SQL.
 
-Fun Facts:
-
 - Hobbies: coding,  and learning new tech
   
 
