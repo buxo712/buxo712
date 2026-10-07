@@ -7,7 +7,7 @@
 These days I'm focused on:
 
 - Java and Python
-- (LARAVEL) and SQL
+- (LARAVEL) and SQL.
 
   
 
