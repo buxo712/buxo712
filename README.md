@@ -6,7 +6,7 @@
 
 These days I'm focused on:
 
-- Java and Python
+- Java and Python.
 - (LARAVEL) and SQL.
 
   
