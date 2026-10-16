@@ -9,7 +9,7 @@ These days I'm focused on:
 - Java and Python ,php
 - (LARAVEL) and SQL…
 - database …
-
+.
   
 
 
