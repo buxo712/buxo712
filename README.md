@@ -2,7 +2,7 @@
 <h3 align="center">An It student   and tech enthousiast </h3>
 
 
- I like building simple, useful projects and using them to practice my coding skills.
+ I like building simple, useful projects and using them to practice my coding skills..
 
 These days I'm focused on:
 
